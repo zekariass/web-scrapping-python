@@ -1,0 +1,172 @@
+2023:06:18 20:05:05 INFO    : [main.py: 26] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:05:09 INFO    : [main.py: 28] User choice accepted: c
+2023:06:18 20:05:09 INFO    : [main.py: 36] Creating main page parser....
+2023:06:18 20:05:09 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:05:09 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:05:09 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/coding
+2023:06:18 20:05:09 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:05:09 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/coding HTTP/1.1" 200 None
+2023:06:18 20:05:09 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:05:09 INFO    : [main.py: 38] Page parser created!
+2023:06:18 20:05:09 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Android Room Database With Kotlin'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'LiveData Tutorial In Kotlin For Beginners'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Web Scraping Made Easy: A Beginner’s Guide to Extracting Data with BeautifulSoup'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Coding Interview Preparation: A Comprehensive Guide for Noobs'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title '7 Great Examples of Using the Spread Operator in JavaScript'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Developing Go programs on iPad using GitHub Codespaces While Commuting'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Mastering Arrays in JavaScript'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Code Maintenance: The Why, What & When?'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Advanced TypeScript Techniques for Senior Frontend Engineers'
+2023:06:18 20:05:09 INFO    : [parser.py: 26] Parsing blog with title 'Problems vs process'
+2023:06:18 20:29:59 INFO    : [main.py: 26] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:30:02 INFO    : [main.py: 28] User choice accepted: c
+2023:06:18 20:30:02 INFO    : [main.py: 36] Creating main page parser....
+2023:06:18 20:30:02 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:30:02 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:30:02 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/coding
+2023:06:18 20:30:02 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:30:02 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/coding HTTP/1.1" 200 None
+2023:06:18 20:30:02 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:30:02 INFO    : [main.py: 38] Page parser created!
+2023:06:18 20:30:02 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Android Room Database With Kotlin'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'LiveData Tutorial In Kotlin For Beginners'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Web Scraping Made Easy: A Beginner’s Guide to Extracting Data with BeautifulSoup'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Coding Interview Preparation: A Comprehensive Guide for Noobs'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title '7 Great Examples of Using the Spread Operator in JavaScript'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Developing Go programs on iPad using GitHub Codespaces While Commuting'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Mastering Arrays in JavaScript'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Code Maintenance: The Why, What & When?'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Advanced TypeScript Techniques for Senior Frontend Engineers'
+2023:06:18 20:30:02 INFO    : [parser.py: 26] Parsing blog with title 'Problems vs process'
+2023:06:18 20:33:32 INFO    : [main.py: 26] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:34:19 INFO    : [main.py: 28] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:34:23 INFO    : [main.py: 30] User choice accepted: a
+2023:06:18 20:34:23 INFO    : [main.py: 38] Creating main page parser....
+2023:06:18 20:34:28 INFO    : [main.py: 28] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:34:34 INFO    : [main.py: 30] User choice accepted: c
+2023:06:18 20:34:34 INFO    : [main.py: 38] Creating main page parser....
+2023:06:18 20:34:34 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:34:34 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:34:34 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/coding
+2023:06:18 20:34:34 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:34:34 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/coding HTTP/1.1" 200 None
+2023:06:18 20:34:34 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:34:34 INFO    : [main.py: 40] Page parser created!
+2023:06:18 20:34:34 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Android Room Database With Kotlin'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'LiveData Tutorial In Kotlin For Beginners'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Web Scraping Made Easy: A Beginner’s Guide to Extracting Data with BeautifulSoup'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Coding Interview Preparation: A Comprehensive Guide for Noobs'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title '7 Great Examples of Using the Spread Operator in JavaScript'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Developing Go programs on iPad using GitHub Codespaces While Commuting'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Mastering Arrays in JavaScript'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Code Maintenance: The Why, What & When?'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Advanced TypeScript Techniques for Senior Frontend Engineers'
+2023:06:18 20:34:34 INFO    : [parser.py: 26] Parsing blog with title 'Problems vs process'
+2023:06:18 20:35:15 INFO    : [main.py: 28] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:35:18 INFO    : [main.py: 30] User choice accepted: p
+2023:06:18 20:35:18 INFO    : [main.py: 38] Creating main page parser....
+2023:06:18 20:35:18 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:35:18 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:35:18 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/python
+2023:06:18 20:35:18 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:35:18 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/python HTTP/1.1" 200 None
+2023:06:18 20:35:18 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:35:18 INFO    : [main.py: 40] Page parser created!
+2023:06:18 20:35:18 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'Plotly and Python: Creating Interactive Heatmaps for Petrophysical & Geological Data'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'The Lost Art of Curve Sketching'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'Context managers + Generators = \u2764\ufe0f'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title '5 Easy and Effective Ways to Use Python Logging'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'Using Google Distance Matrix API to reduce commute time.'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title '15 Common Mistakes To Avoid when learning Power BI'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'Geospatial Data Analysis with OSMnx'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'What is programming language and why Python: From Bio Prospective'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'Introducing Mojo: The end of Python!'
+2023:06:18 20:35:18 INFO    : [parser.py: 26] Parsing blog with title 'How to Use the ChatGPT API in Python?'
+2023:06:18 20:38:03 INFO    : [main.py: 28] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:38:05 INFO    : [main.py: 30] User choice accepted: p
+2023:06:18 20:38:05 INFO    : [main.py: 38] Creating main page parser....
+2023:06:18 20:38:05 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:38:05 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:38:05 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/python
+2023:06:18 20:38:05 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:38:05 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/python HTTP/1.1" 200 None
+2023:06:18 20:38:05 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:38:06 INFO    : [main.py: 40] Page parser created!
+2023:06:18 20:38:06 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'Plotly and Python: Creating Interactive Heatmaps for Petrophysical & Geological Data'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'The Lost Art of Curve Sketching'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'Context managers + Generators = \u2764\ufe0f'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title '5 Easy and Effective Ways to Use Python Logging'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'Using Google Distance Matrix API to reduce commute time.'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title '15 Common Mistakes To Avoid when learning Power BI'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'Geospatial Data Analysis with OSMnx'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'What is programming language and why Python: From Bio Prospective'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'Introducing Mojo: The end of Python!'
+2023:06:18 20:38:06 INFO    : [parser.py: 26] Parsing blog with title 'How to Use the ChatGPT API in Python?'
+2023:06:18 20:40:51 INFO    : [main.py: 28] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:40:53 INFO    : [main.py: 30] User choice accepted: p
+2023:06:18 20:40:53 INFO    : [main.py: 38] Creating main page parser....
+2023:06:18 20:40:53 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:40:53 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:40:53 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/python
+2023:06:18 20:40:53 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:40:54 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/python HTTP/1.1" 200 None
+2023:06:18 20:40:54 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:40:54 INFO    : [main.py: 40] Page parser created!
+2023:06:18 20:40:54 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'Plotly and Python: Creating Interactive Heatmaps for Petrophysical & Geological Data'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'The Lost Art of Curve Sketching'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'Context managers + Generators = \u2764\ufe0f'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title '5 Easy and Effective Ways to Use Python Logging'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'Using Google Distance Matrix API to reduce commute time.'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title '15 Common Mistakes To Avoid when learning Power BI'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'Geospatial Data Analysis with OSMnx'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'What is programming language and why Python: From Bio Prospective'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'Introducing Mojo: The end of Python!'
+2023:06:18 20:40:54 INFO    : [parser.py: 26] Parsing blog with title 'How to Use the ChatGPT API in Python?'
+2023:06:18 20:42:10 INFO    : [main.py: 28] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:42:11 INFO    : [main.py: 30] User choice accepted: p
+2023:06:18 20:42:11 INFO    : [main.py: 38] Creating main page parser....
+2023:06:18 20:42:11 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:42:11 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:42:11 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/python
+2023:06:18 20:42:11 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:42:12 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/python HTTP/1.1" 200 None
+2023:06:18 20:42:12 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:42:12 INFO    : [main.py: 40] Page parser created!
+2023:06:18 20:42:12 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'Plotly and Python: Creating Interactive Heatmaps for Petrophysical & Geological Data'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'Benchmarking pandas against Polars from a pandas point of view'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title '15 Common Mistakes To Avoid when learning Power BI'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'A Python 3.7 \u2192 3.10 Feature Summary'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'Geospatial Data Analysis with OSMnx'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title '5 Easy and Effective Ways to Use Python Logging'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'How to Create Beautiful Bar Charts with Seaborn and Matplotlib (Including Animation)'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'Implementing an ANN model from scratch using Numpy'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'Python Virtual Environment Explained'
+2023:06:18 20:42:12 INFO    : [parser.py: 26] Parsing blog with title 'Unleashing the Power of Multiple Timeseries Forecasting \U0001f4ca\U0001f4a1'
+2023:06:18 20:42:58 INFO    : [main.py: 28] Getting user choice, 'c' for coding, 'p' for python
+2023:06:18 20:43:00 INFO    : [main.py: 30] User choice accepted: p
+2023:06:18 20:43:00 INFO    : [main.py: 38] Creating main page parser....
+2023:06:18 20:43:00 INFO    : [parser.py: 11] Create page parser by passing tag and topic values
+2023:06:18 20:43:00 INFO    : [parser.py: 13] Parse the retrieved page
+2023:06:18 20:43:00 INFO    : [page_parser.py: 18] Getting the page from https://medium.com/tag/python
+2023:06:18 20:43:00 DEBUG   : [connectionpool.py: 1048] Starting new HTTPS connection (1): medium.com:443
+2023:06:18 20:43:00 DEBUG   : [connectionpool.py: 546] https://medium.com:443 "GET /tag/python HTTP/1.1" 200 None
+2023:06:18 20:43:00 INFO    : [page_parser.py: 20] Creating a BeautifulSoup object to parse the page HTML tags
+2023:06:18 20:43:00 INFO    : [main.py: 40] Page parser created!
+2023:06:18 20:43:00 INFO    : [parser.py: 19] Check is parsed page is not none
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'Plotly and Python: Creating Interactive Heatmaps for Petrophysical & Geological Data'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'The Lost Art of Curve Sketching'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'Context managers + Generators = \u2764\ufe0f'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title '5 Easy and Effective Ways to Use Python Logging'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'Using Google Distance Matrix API to reduce commute time.'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title '15 Common Mistakes To Avoid when learning Power BI'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'Geospatial Data Analysis with OSMnx'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'What is programming language and why Python: From Bio Prospective'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'Introducing Mojo: The end of Python!'
+2023:06:18 20:43:00 INFO    : [parser.py: 26] Parsing blog with title 'How to Use the ChatGPT API in Python?'
